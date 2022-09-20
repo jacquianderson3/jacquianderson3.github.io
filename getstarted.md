@@ -33,10 +33,12 @@ Note that this was the easy way to *create* your website, but it does come at a 
 
 <style>
 
-  .gs-section-01 h1 {
-     color: red }
-  .gs-section-01 p {
-     font-size: 50px }
-
+  .gs-section-01 h3 {color: red }
+  .gs-section-01 p {font-size: 50px }
+  
+  .gs-section-02 h3 {
+      color: tomato;
+      font-size: 50px;
+  }
 
 </style>
