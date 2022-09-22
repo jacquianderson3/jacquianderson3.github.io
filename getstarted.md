@@ -39,7 +39,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
   }
 .gs-section-02 h3 {
       color: tomato;
-      font-size: 10px;
+      font-size: 45px;
   }
  .gs-section-03 h3 {
       color: cadetblue;
